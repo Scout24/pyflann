@@ -1,4 +1,7 @@
-#pyflann
+> [!WARNING]
+> this repo has been archived
+
+# pyflann
 =============
 
 Modified to be python 3.x compatible
